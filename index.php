@@ -16,11 +16,11 @@
     <div class="wrapper">
 
         <a class="button get__data" id="get_data_btn">
-            Get data
+            Get datad3
         </a>
         <div class="form__data">
             <h3 class="title">
-                Search
+                Searchdd
             </h3>
             <input type="text" class="input" placeholder="Promo" id="check_object_code_input">
             <a class="button" id="check_object_code_btn">
