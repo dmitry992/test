@@ -1,8 +1,5 @@
 on:
   pull_request:
-  push:
-    branches:
-      - my-feature
 name: Deploy website on push
 jobs:
   web-deploy:
