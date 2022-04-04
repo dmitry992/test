@@ -1,5 +1,8 @@
 on:
+<<<<<<< HEAD
   pull_request:
+=======
+>>>>>>> my-feature
   # push:
   #   branches:
   #     - master
