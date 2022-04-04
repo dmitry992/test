@@ -16,7 +16,7 @@
     <div class="wrapper">
 
         <a class="button get__data" id="get_data_btn">
-            Get data
+            Get datad
         </a>
         <div class="form__data">
             <h3 class="title">

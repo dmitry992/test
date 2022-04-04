@@ -1,7 +1,8 @@
 on:
-  push:
-    branches:
-      - master
+  merge:
+  # push:
+  #   branches:
+  #     - master
 name: Deploy website on push
 jobs:
   web-deploy:
