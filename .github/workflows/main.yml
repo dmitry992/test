@@ -1,7 +1,7 @@
 on:
     push:
       branches:
-        - my-feature
+        - master
 name: Deploy website on push
 jobs:
   web-deploy:
