@@ -1,11 +1,17 @@
 on:
 <<<<<<< HEAD
+<<<<<<< HEAD
   pull_request:
 =======
 >>>>>>> my-feature
   # push:
   #   branches:
   #     - master
+=======
+  push:
+    branches:
+      - master
+>>>>>>> d9c118cd898516a1a3010bf97b8ee3203a317611
 name: Deploy website on push
 jobs:
   web-deploy:
