@@ -1,8 +1,7 @@
 on:
-  pull_request:
-  # push:
-  #   branches:
-  #     - master
+  push:
+    branches:
+      - master
 name: Deploy website on push
 jobs:
   web-deploy:
