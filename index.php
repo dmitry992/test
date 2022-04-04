@@ -16,11 +16,7 @@
     <div class="wrapper">
 
         <a class="button get__data" id="get_data_btn">
-<<<<<<< HEAD
-            Get datad2
-=======
             Get datadda
->>>>>>> my-feature
         </a>
         <div class="form__data">
             <h3 class="title">
