@@ -1,5 +1,5 @@
 on:
-  merge:
+  pull-request:
   # push:
   #   branches:
   #     - master
